@@ -1,0 +1,20 @@
+* arctic-circle
+
+Implementation of the Arctic Circle / Aztek Diamond graph interation 
+
+** Resources
+Introduction to Arctic Circle Theorem (including useful references)
+- Youtube: [[https://www.youtube.com/watch?v=Yy7Q8IWNfHM][Mathologer]]
+- The ARCTIC CIRCLE THEOREM or Why do physicists play dominoes?
+
+Random Domino Tilings and the Arctic Circle Theorem
+- by William Jockusch, James Propp, and Peter Shor
+- [[https://arxiv.org/abs/math/9801068]]
+
+Original Paper
+- Alternating-sign matrices and domino tilings (part I), Journal of Algebraic Combinatorics 1 (1992), 111-132.
+- by Elkies-Kuperberg-Larsen-Propp
+- [[arXiv:math/9201305]]
+
+An introduction to the dimer model by Richard Kenyon
+- [[https://arxiv.org/abs/math/0310326]]
