@@ -2,6 +2,8 @@
 
 Implementation of the Arctic Circle / Aztek Diamond graph interation 
 
+[[images/arctic-circle.png]]
+
 ** Building
 #+begin_src
 cd src && make
