@@ -2,6 +2,23 @@
 
 Implementation of the Arctic Circle / Aztek Diamond graph interation 
 
+** Building
+#+begin_src
+cd src && make
+#+end_src
+
+** Running
+#+begin_src 
+./src/arctic-circle
+#+end_src
+
+Size and number of steps to run can be varied in the code by editing
+#+begin_src
+#define MAXX 81
+#define MAXY 81
+#define STEPMAX 40
+#+end_src
+
 ** Resources
 Introduction to Arctic Circle Theorem (including useful references)
 - Youtube: [[https://www.youtube.com/watch?v=Yy7Q8IWNfHM][Mathologer]]
@@ -11,10 +28,10 @@ Random Domino Tilings and the Arctic Circle Theorem
 - by William Jockusch, James Propp, and Peter Shor
 - [[https://arxiv.org/abs/math/9801068]]
 
-Original Paper
+Original Paper on matrix formalism
 - Alternating-sign matrices and domino tilings (part I), Journal of Algebraic Combinatorics 1 (1992), 111-132.
 - by Elkies-Kuperberg-Larsen-Propp
-- [[arXiv:math/9201305]]
+- [[-https://arxiv.org/abs/math/9201305][arXiv:math/9201305]]
 
 An introduction to the dimer model by Richard Kenyon
 - [[https://arxiv.org/abs/math/0310326]]
